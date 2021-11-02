@@ -1,0 +1,21 @@
+cloths:
+
+	- mostly civilian with military jackets
+	- some old uk military cloths
+	- very few ex military
+	- few armoured vest
+	
+arms:
+
+	- Bolt action
+	- M16A1s
+	- some AKs
+	- FN FALS
+	- a few G3s
+	- whatever could be bought at us black market
+
+equipment:
+
+	- very limited optics
+	- ACRE 343: grunts(none) FTLs(sometimes)  SLs(most)
+	- ACRE 148: grunts(none) FTLs(none) SLs(sometimes)
