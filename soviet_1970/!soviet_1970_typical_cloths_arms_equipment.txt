@@ -1,0 +1,13 @@
+cloths:
+
+	- 
+	
+arms:
+
+	- 
+
+equipment:
+
+	- 
+	- ACRE 343: grunts(none/sometimes/most/always) FTLs(none/sometimes/most/always)  SLs(none/sometimes/most/always)
+	- ACRE 148: grunts(none/sometimes/most/always) FTLs(none/sometimes/most/always) SLs(none/sometimes/most/always)
